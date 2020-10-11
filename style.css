@@ -1,0 +1,96 @@
+
+/*give background a color*/
+body{
+  background-color: rgb(223, 226, 226);
+  margin: 0px;
+
+}
+
+/*header color bright*/
+.dark-background{
+  background-color: rgb(248, 203, 0);
+}
+
+/*style "software developer"*/
+.describe{
+  font-family: georgia;
+  font-size: 16px;
+  letter-spacing: 3px;
+  padding-bottom: 15px;
+  color: gray
+}
+
+
+.text-center{
+  text-align: center;
+}
+
+.wrapper{
+  width: 400px;
+  margin: auto;
+  font-family:georgia;
+}
+
+
+header h1{
+  font-size: 60px;
+  font-family: fantasy;
+  font-weight: bold;
+  padding-top:30px;
+  margin-top:0px;
+  letter-spacing: 13px;
+}
+
+
+/*round image corners*/
+img{
+  border-radius: 12px;
+}
+
+h2{
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 1px;
+  
+}
+
+.spacer{
+  letter-spacing: 4px;
+}
+/*horizontal rule styling*/
+hr{
+  height: 3px;
+  background-color: rgb(248, 203, 0);
+}
+/*thicken link appearance and change colors*/
+a{
+  font-weight:bold;
+}
+a:link{
+  color: blue;
+}
+a:visited{
+  color:aqua;
+}
+a:hover{
+  color: aliceblue;
+}
+a:active{
+  color: orangered;
+}
+
+
+
+/*footer edits*/
+footer {
+height: 40px;
+
+}
+
+footer h3{
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+
+
+
